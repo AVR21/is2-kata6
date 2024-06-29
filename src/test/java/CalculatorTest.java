@@ -14,4 +14,14 @@ public class CalculatorTest {
         assertEquals(1, calculator.sub(3,2));
     }
 
+    @Test
+    public void testMult(){
+        assertEquals(10, calculator.mult(2,5));
+    }
+
+    @Test
+    public void testDiv(){
+        assertEquals(4, calculator.div(8,2));
+    }
+
 }

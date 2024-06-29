@@ -7,4 +7,12 @@ public class Calculator {
         return i-i1;
     }
 
+    public int mult(int i, int i1) {
+        return i*i1;
+    }
+
+    public int div(int i, int i1) {
+        return i/i1;
+    }
+
 }
