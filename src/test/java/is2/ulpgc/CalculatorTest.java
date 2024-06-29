@@ -1,3 +1,5 @@
+package is2.ulpgc;
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 

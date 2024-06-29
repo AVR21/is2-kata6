@@ -1,3 +1,5 @@
+package is2.ulpgc;
+
 public class Calculator {
     public int add(int a, int b){
         return a+b;
